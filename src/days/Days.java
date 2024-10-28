@@ -4,7 +4,7 @@
  */
 package days;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 /**This class takes String input from user 
  * and calls method  to print the 
